@@ -11,7 +11,3 @@ def password(n):
 for n in range(3, 21):
     result = password(n)
     print(f'{n}: ', result)
-
-
-
-
